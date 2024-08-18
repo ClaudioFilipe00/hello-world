@@ -1,6 +1,6 @@
 ## Seja Bem Vindo 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
   <div style="flex: 1;">
     Ola, meu nome é Claudio Filipe, seja bem vindo ao meu repositório.
 
