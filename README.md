@@ -25,11 +25,14 @@ Realizei projetos em diferentes linguagens, incluindo C, Java, Python e agora ma
 - [Sistema Bancario](https://github.com/ClaudioFilipe00/Criando-um-Sistema-Banc-rio-com-Python)
 - [Melhorando Sistema Bancario](https://github.com/ClaudioFilipe00/Desafio-Melhorando-o-Sistema-Banc-rio-com-Python)
 
+Confira tambem as Sprints feitas com a PB: 
+- [Sprint 1](https://github.com/ClaudioFilipe00/PBCompass_Claudio/tree/master/Sprint-1)
+
 
 
 <b>Curiosidades :eyes:</b>
 
-Sou formado em Tecnologia em Projetos Mecanicos pela Fatec Arthur de Azevedo, área que trabalhei por 6 anos, e então decidi migrar para áea de computação e programação que é algo que sempre gostei e ja vinha realizando serviços de Hardware em paralelo ao outro emprego. :screwdriver:
+Sou formado no curso de Tecnologia em Projetos Mecanicos pela Fatec Arthur de Azevedo, área que trabalhei por 6 anos, e então decidi migrar para áea de computação e programação que é algo que sempre gostei e ja vinha realizando serviços de Hardware em paralelo ao outro emprego. ⚙️
 
 Gosto muito do universo Nerd, filmes, jogos, séries, tudo que venha desse meio me atrai bastante. 🎮
 
