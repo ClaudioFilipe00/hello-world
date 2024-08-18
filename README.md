@@ -1,11 +1,11 @@
-## Seja Bem Vindo 
+## Seja Bem Vindo :wave:
 
-Ola, meu nome é Claudio Filipe, seja bem vindo ao meu repositório.
+Ola, meu nome é Claudio Filipe, estou feliz de vê-lo por aqui. :smile:
 
-* Sou natural de Mogi Mirim - SP, onde moro atualmente.
-* Tenho 26 anos, e faço aniversário em 26 de Abril.
-* Estudo Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Mogi Mirim (Fatec Arthur de Azevedo).
-* Atualmente no 4º Semestre.
+* :house: Sou natural de Mogi Mirim - SP, onde moro atualmente.
+* :birthday: Tenho 26 anos, e faço aniversário em 26 de Abril.
+* :books: Estudo Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Mogi Mirim (Fatec Arthur de Azevedo).
+* :rocket: Atualmente no 4º Semestre.
 
 <div align="Center">
  <table>
@@ -27,13 +27,13 @@ Realizei projetos em diferentes linguagens, incluindo C, Java, Python e agora ma
 
 
 
-<b>Curiosidades</b>
+<b>Curiosidades :eyes:</b>
 
-Sou formado em Tecnologia em Projetos Mecanicos pela Fatec Arthur de Azevedo, área que trabalhei por 6 anos, e então decidi migrar para áea de computação e programação que é algo que sempre gostei e ja vinha realizando serviços de Hardware em paralelo ao outro emprego.
+Sou formado em Tecnologia em Projetos Mecanicos pela Fatec Arthur de Azevedo, área que trabalhei por 6 anos, e então decidi migrar para áea de computação e programação que é algo que sempre gostei e ja vinha realizando serviços de Hardware em paralelo ao outro emprego. :screwdriver:
 
-Gosto muito do universo Nerd, filmes, jogos, séries, tudo que venha desse meio me atrai bastante.
+Gosto muito do universo Nerd, filmes, jogos, séries, tudo que venha desse meio me atrai bastante. 🎮
 
-Tambem dedico uma parte do meu dia para praticar exercícios fisícos, pois é algo que me acalma e faz bem, tanto para o corpo quanto para a mente, muitas vezes consigo fazer códigos após relaxar a cabeca em um treino de musculação.
+Tambem dedico uma parte do meu dia para praticar exercícios fisícos, pois é algo que me acalma e faz bem, tanto para o corpo quanto para a mente, muitas vezes consigo fazer códigos após relaxar a cabeca em um treino de musculação. :muscle:
 
 ## Redes Sociais e Contato
 
