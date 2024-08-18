@@ -11,7 +11,7 @@ Ola, meu nome é Claudio Filipe, seja bem vindo ao meu repositório.
  <table>
   <tr>
    <td>
-    <img src="https://github.com/ClaudioFilipe00/hello-world/blob/main/Perfil.jpg?raw=true"width="400px" height="400px">
+    <img src="https://github.com/ClaudioFilipe00/hello-world/blob/main/Perfil.jpg?raw=true"width="400px" height="500px">
    </td>
   </tr>
  </table>
@@ -53,7 +53,7 @@ Tambem dedico uma parte do meu dia para praticar exercícios fisícos, pois é a
 
 <div align="left">
  <a href="https://github.com/ClaudioFilipe00">
- <img height="200em" src=https://github-readme-stats.vercel.app/api?username=ClaudioFilipe00&show_icons=true&theme=transparent"/>
+ <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ClaudioFilipe00&show_icons=true&theme=transparent"/>
 </div>
 
 
