@@ -11,7 +11,7 @@ Ola, meu nome é Claudio Filipe, seja bem vindo ao meu repositório.
  <table>
   <tr>
    <td>
-    <img src="https://github.com/ClaudioFilipe00/hello-world/blob/main/Perfil.jpg?raw=true"width="300px" height="300px">
+    <img src="https://github.com/ClaudioFilipe00/hello-world/blob/main/Perfil.jpg?raw=true"width="400px" height="400px">
    </td>
   </tr>
  </table>
@@ -27,7 +27,7 @@ Realizei projetos em diferentes linguagens, incluindo C, Java, Python e agora ma
 
 
 
-<b>Além da tecnologia...</b>
+<b>Curiosidades</b>
 
 Sou formado em Tecnologia em Projetos Mecanicos pela Fatec Arthur de Azevedo, área que trabalhei por 6 anos, e então decidi migrar para áea de computação e programação que é algo que sempre gostei e ja vinha realizando serviços de Hardware em paralelo ao outro emprego.
 
@@ -38,21 +38,22 @@ Tambem dedico uma parte do meu dia para praticar exercícios fisícos, pois é a
 ## Redes Sociais e Contato
 
 <div align="left">
-<a href="https://www.linkedin.com/in/claudio-filipe-temoteo-de-farias-746056144/" target="_blank">
-<img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LogoExibida&logoColor=HexaCorLogo" target="_blank">
-</a>
-<a href="https://www.instagram.com/claudiofarias01/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=LogoExibida&logoColor=HexaCorLogo" target="_blank">
-</a>
-<a href="https://wa.me/5519993699654" target="_blank">
-<img src="https://img.shields.io/badge/Whatsapp-Green?style=for-the-badge&logo=LogoExibida&logoColor=HexaCorLogo" target="_blank">
+ <a href="https://www.linkedin.com/in/claudio-filipe-temoteo-de-farias-746056144/" target="_blank">
+ <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=LogoExibida&logoColor=HexaCorLogo" target="_blank">
+ </a>
+ <a href="https://www.instagram.com/claudiofarias01/" target="_blank">
+ <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=LogoExibida&logoColor=HexaCorLogo" target="_blank">
+ </a>
+ <a href="https://wa.me/5519993699654" target="_blank">
+ <img src="https://img.shields.io/badge/Whatsapp-Green?style=for-the-badge&logo=LogoExibida&logoColor=HexaCorLogo" target="_blank">
 </a>
 </div>
 
 
+
 <div align="left">
-<a href="https://github.com/ClaudioFilipe00">
-<img height="200em" src=![Anurag's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClaudioFilipe00&show_icons=true&theme=trasnparent)>
+ <a href="https://github.com/ClaudioFilipe00">
+ <img height="200em" src=https://github-readme-stats.vercel.app/api?username=ClaudioFilipe00&show_icons=true&theme=transparent"/>
 </div>
 
 
